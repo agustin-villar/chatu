@@ -121,3 +121,7 @@
   width: 450px;
   max-width: 75%;
 }
+
+.main video {
+  border: 10px solid #FFF;
+}
