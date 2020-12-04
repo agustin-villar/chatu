@@ -32,7 +32,7 @@ export default function Home() {
           Todo hasta aquí muy interesante, pero ¿Y el yoga? Para este punto estoy seguro que todos ya hicimos las conexiones pertinentes, y sabemos que cuando estamos en un Chaturanga estamos apoyados en nuestros cuatro miembros muy cerca del suelo. El número cuatro en el nombre de la pose, no es gratis, ni lo fue para los indios en su momento, significaba estabilidad y solidez. Cuatro son los lados que tiene un cuadrado, los puntos cardinales, es mucho más estable una mesa que un trípode, la idea de tener cuatro paredes como símbolo de protección, 
         </p>
 
-        <video controls width="100%" autoPlay loop>
+        <video width="100%" autoPlay loop muted>
           <source src="/video/chatu.mp4" type="video/mp4" />
         </video>
       </main>
