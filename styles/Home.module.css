@@ -10,6 +10,7 @@
   display: flex;
   flex-direction: column;
   max-width: 800px;
+  margin-bottom: 64px;
   width: calc(100% - 60px);
 }
 
@@ -34,12 +35,14 @@
 }
 
 .footer {
-  width: 100%;
-  height: 100px;
-  border-top: 1px solid #eaeaea;
+  border-top: 1px solid #999;
   display: flex;
   justify-content: center;
   align-items: center;
+  max-width: 800px;
+  padding-top: 32px;
+  width: calc(100% - 60px);
+  margin-bottom: 64px;
 }
 
 .footer img {
@@ -124,4 +127,15 @@
 
 .main video {
   border: 10px solid #FFF;
+}
+
+.footnotes {
+  color: #666;
+  font-size: 0.75em;
+  margin: 0;
+  padding: 0 0 0 32px;
+}
+
+.footnotes li {
+  margin-bottom: 8px;
 }
