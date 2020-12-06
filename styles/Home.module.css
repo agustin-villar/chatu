@@ -34,6 +34,11 @@
   width: 50%;
 }
 
+.main sup a {
+  font-size: 0.8rem;
+  text-decoration: underline;
+}
+
 .footer {
   border-top: 1px solid #999;
   display: flex;
@@ -137,12 +142,16 @@
   }
 
   .main h1 {
-    font-size: 3.5rem;
+    font-size: 4rem;
     margin: 64px 0 40px;
   }
 
   .main p {
     margin-bottom: 40px;
+  }
+
+  .main sup a {
+    font-size: 0.9rem;
   }
 
   .main hr {
