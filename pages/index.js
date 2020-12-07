@@ -6,6 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>🧘🏼‍♀️ | Jugando Chaturanga</title>
+        <meta property="og:type" content="/img/happy-chatu.jpg" />
       </Head>
 
       <main className={styles.main}>
@@ -90,6 +91,10 @@ export default function Home() {
           La próxima vez que escuchen "Chaturanga" sabrán que es una palabra llena de historia y significado de la que ahora también hacemos parte. Es más que una pose.
         </p>
 
+        <p className={styles.author}>
+          <i>Escrito por: Agustín Villar.</i>
+        </p>
+
         <video width="100%" controls autoPlay loop muted>
           <source src="/video/chatu.mp4" type="video/mp4" />
         </video>
@@ -146,7 +151,7 @@ export default function Home() {
             Los nombres de las poses han sido traducidos a diversos idiomas y muchas poses son compartidas en una gran cantidad de prácticas y disciplinas, por lo que frecuentemente son nombradas de diferentes maneras, como los planks, los handstands o el pancake. 
           </li>
           <li id="5">
-            El video de los splits si quieren recordar la historia, o la pose, o las dos.
+            <a href="https://www.youtube.com/watch?v=Bkr2KAZSNFA&t=2140&autoplay=1" target="_blank">Aquí pueden ver el video de los splits frontales o Hanumanasana</a>  por si quieren recordar la historia, o la pose, o las dos.
           </li>
           <li id="6">
             Al Chaturanga Dandasana tambíen se le conoce como "Pose del bastón de cuatro extremidades" o "Four limbed staff pose" en inglés. 
