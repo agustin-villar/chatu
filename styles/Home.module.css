@@ -3,6 +3,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-top: 17px;
 }
 
 .main {
@@ -15,7 +16,7 @@
 
 .main h1 {
   font-size: 2.5rem;
-  margin: 40px 0 24px;
+  margin: 48px 0 24px;
   text-align: center;
 }
 
@@ -89,7 +90,8 @@
   text-align: center;
 }
 
-.title br {
+.title span {
+  display: block;
   margin-bottom: 12px;
 }
 
@@ -187,13 +189,17 @@
 }
 
 @media only screen and (min-width: 600px) {
+  .container {
+    padding-top: 20px;
+  }
+
   .main {
     margin-bottom: 64px;
   }
 
   .main h1 {
     font-size: 4rem;
-    margin: 64px 0 40px;
+    margin: 80px 0 40px;
   }
 
   .main p {
@@ -213,7 +219,7 @@
     margin-bottom: 40px;
   }
 
-  .title br {
+  .title span {
     margin-bottom: 24px;
   }
 

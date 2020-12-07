@@ -10,7 +10,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          🧘🏼‍♀️<br />Jugando Chaturanga
+          <span>🧘🏼‍♀️</span>Jugando Chaturanga
         </h1>
         
         <svg className={styles.divider} version="1.2" baseProfile="tiny" id="Layer_1" x="0px" y="0px" viewBox="0 0 178 22" overflow="visible">

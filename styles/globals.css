@@ -2,13 +2,20 @@
 
 html,
 body {
-  background-color: #F2EFE4;
   color: #1F1302;
   padding: 0;
   margin: 0;
   font-family: 'Open Sans', Roboto, Helvetica Neue, Helvetica, Arial sans-serif;
   line-height: 2;
   font-size: 0.925rem;
+}
+
+body {
+  background-color: #F2EFE4;
+  background-image: url('/img/chaturanga-small.svg');
+  background-size: 50px 21px;
+  background-repeat: repeat-x;
+  background-position: 0 -2px;
 }
 
 a {
@@ -22,6 +29,7 @@ a {
 
 @media only screen and (min-width: 600px) {
   body {
-    font-size: 1.25rem;
+    background-size: 56px 23px;
+    font-size: 1.15rem;
   }
 }
