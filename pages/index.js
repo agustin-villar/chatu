@@ -61,7 +61,7 @@ export default function Home() {
         </svg>
 
         <p>
-          Hace dos años, mas o menos, no tenía idea de lo que era un "Chaturanga", la palabra como tal  quizás me habría llamado la atención solo porque suena raro, eso a pesar de que nuestra idioma está lleno de palabras como chirimoya, charro, Churra, chévere, changos, en fin "che" por todos lados, pero Chaturanga tiene un sonido particular para nosotros, medio distante, o por lo menos para mí es así. Sin embargo, esa palabra que antes se me hacía medio extraña, ahora me llama la atención por otra razón, ya no es tan rara, ya hace parte de mi vida casi que diariamente. Tal vez ustedes puedan sentirse identificadas e identificados con está situación, por eso les voy a contar algo que aprendí hace poco, cuando me encontré con otro Chaturanga que me tomó por sorpresa. 
+          Hace dos años, más o menos, no tenía idea de lo que era un "Chaturanga", la palabra como tal  quizás me habría llamado la atención solo porque suena raro, eso a pesar de que nuestra idioma está lleno de palabras como chirimoya, charro, Churra, chévere, changos, en fin "che" por todos lados, pero Chaturanga tiene un sonido particular para nosotros, medio distante, o por lo menos para mí es así. Sin embargo, esa palabra que antes se me hacía medio extraña, ahora me llama la atención por otra razón, ya no es tan rara, ya hace parte de mi vida casi que diariamente. Tal vez ustedes puedan sentirse identificadas e identificados con está situación, por eso les voy a contar algo que aprendí hace poco, cuando me encontré con otro Chaturanga que me tomó por sorpresa. 
         </p>
 
         <p>
@@ -87,7 +87,7 @@ export default function Home() {
         </p>
 
         <p>
-          La próxima vez que escuchen "Chaturanga" sabrán que es una palabra llena de historia y significado, de la que ahora también hacemos parte. Es más que una pose.
+          La próxima vez que escuchen "Chaturanga" sabrán que es una palabra llena de historia y significado de la que ahora también hacemos parte. Es más que una pose.
         </p>
 
         <video width="100%" controls autoPlay loop muted>
@@ -131,7 +131,7 @@ export default function Home() {
             El Sánscrito es el lenguaje sagrado del Hinduísmo.
           </li>
           <li id="2">
-            ¡El ejército Indio tenía elefantes! Cual película o cual Age of Empires para quienes lo han jugado.
+            ¡El ejército Indio tenía elefantes! Tal cual como en El Señor de los Anillos o en Age of Empires para quienes lo han jugado.
           </li>
           <li id="3">
             De acuerdo con fuentes de alta fidelidad  (Esto me lo conto Nati 👀) "Alfil" en español se utiliza únicamente y exclusivamente para
