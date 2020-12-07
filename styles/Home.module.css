@@ -61,14 +61,8 @@
   width: 150px;
 }
 
-.footer img {
-  margin-left: 0.5rem;
-}
-
-.footer a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.footer a  {
+  text-decoration: underline;
 }
 
 .title a {
@@ -178,6 +172,10 @@
   border: 10px solid #FFF;
 }
 
+.author {
+  font-size: 0.85rem;
+}
+
 .footnotes {
   color: #666;
   font-size: 0.8rem;
@@ -266,5 +264,9 @@
 
   .footnotes {
     padding: 0 0 0 32px;
+  }
+
+  .author {
+    font-size: 1rem;
   }
 }
